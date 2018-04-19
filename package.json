@@ -1,7 +1,7 @@
 {
   "name": "indentator",
   "main": "./lib/indentator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A very simple indentator, shift-alt-f to make it pretty",
   "keywords": [
     "indentator",
@@ -19,6 +19,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
