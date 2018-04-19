@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle indentator",
+        "command": "indentator:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "indentator",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "indentator:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

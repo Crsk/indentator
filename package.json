@@ -1,0 +1,24 @@
+{
+  "name": "indentator",
+  "main": "./lib/indentator",
+  "version": "1.0.0",
+  "description": "A very simple indentator, shift-alt-f to make it pretty",
+  "keywords": [
+    "indentator",
+    "indentation",
+    "pretty",
+    "tab",
+    "auto",
+    "indent"
+  ],
+  "activationCommands": {
+    "atom-workspace": "indentator:use"
+  },
+  "repository": "https://github.com/Crsk/indentator",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
