@@ -1,4 +1,4 @@
-⚠️ Please be aware that this package is not being actively maintained.
+⚠️ Please be aware that this package is not being maintained.
 
 The package indent your code by folloging this internal process:
 1. Selecting all the code
