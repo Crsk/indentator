@@ -1,1 +1,7 @@
-A very simple indentation package to use in Atom editor, it selects all your code to make the whole file pretty for you without losing your cursor position, try it with shift-alt-f
+⚠️ Please be aware that this package is not being actively maintained.
+
+The package indent your code by folloging this internal process:
+1. Selecting all the code
+2. Saveing the cursor position
+3. Formatting the code
+4. Restoring the cursor position
